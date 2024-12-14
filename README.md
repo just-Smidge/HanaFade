@@ -19,4 +19,10 @@ auto move windows
 
 # current setup 
 arch linux <br>
-gnome
+gnome <br>
+ryzen 7 7800x3D <br>
+radeon rx7900xtx <br>
+32gb 6000mt <br>
+1tb m.2 ssd (linux) <br>
+4tb sada ssd (linux) <br>
+250gb m.2 ssd (windows)
