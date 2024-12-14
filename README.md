@@ -4,7 +4,7 @@ kitty <br>
 cava
 
 # links
-r/unixporn post: https://www.reddit.com/r/unixporn/comments/1he6b2n/gnome_arch_linux_rice_my_1st_whitecream_themed/
+r/unixporn post: https://www.reddit.com/r/unixporn/comments/1he6b2n/gnome_arch_linux_rice_my_1st_whitecream_themed/ <br>
 wallpaper: https://x.com/nanataroo_7/status/1865375688511131836
 
 # current gnome shell extentions
