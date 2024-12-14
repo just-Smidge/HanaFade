@@ -3,6 +3,9 @@ my dot files for <br>
 kitty <br>
 cava
 
+# links
+wallpaper: https://x.com/nanataroo_7/status/1865375688511131836
+
 # current gnome shell extentions
 arch linux update indicator <br>
 blur my shell <br>
