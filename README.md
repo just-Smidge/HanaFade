@@ -1,3 +1,5 @@
+
+![Screenshot From 2024-12-15 03-14-10](https://github.com/user-attachments/assets/c578e374-d5ed-47a1-a612-b577c8314812) <br>
 # just_smidge-linux-dotfiles
 my dot files for <br>
 kitty <br>
@@ -20,6 +22,7 @@ top bar organizer <br>
 usless gaps <br>
 window is read notification remover <br>
 auto move windows 
+
 
 # current setup 
 arch linux <br>
