@@ -21,6 +21,7 @@ auto move windows
 
 
 # current setup 
+pc part picker list: https://pcpartpicker.com/user/Just_Smidge/saved/dZKbkL <br> <br>
 arch linux <br>
 gnome <br>
 ryzen 7 7800x3D <br>
