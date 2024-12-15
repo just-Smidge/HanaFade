@@ -5,7 +5,7 @@
 r/unixporn post: https://www.reddit.com/r/unixporn/comments/1he6b2n/gnome_arch_linux_rice_my_1st_whitecream_themed/ <br> <br>
 wallpaper: https://x.com/nanataroo_7/status/1865375688511131836
 
-# current gnome shell extentions
+# gnome shell extentions
 arch linux update indicator: https://github.com/RaphaelRochet/arch-update <br>
 blur my shell: https://github.com/aunetx/blur-my-shell <br>
 custom reboot: https://github.com/Nova1545/gnome-shell-extension-customreboot <br>
