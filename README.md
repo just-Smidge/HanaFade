@@ -1,7 +1,7 @@
 # just_smidge-linux-dotfiles
 ![Screenshot From 2024-12-15 03-14-10](https://github.com/user-attachments/assets/c578e374-d5ed-47a1-a612-b577c8314812) <br>
 
-# links
+# links & credits
 r/unixporn post: https://www.reddit.com/r/unixporn/comments/1he6b2n/gnome_arch_linux_rice_my_1st_whitecream_themed/ <br> <br>
 wallpaper: https://x.com/nanataroo_7/status/1865375688511131836
 
