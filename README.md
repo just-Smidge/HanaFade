@@ -19,6 +19,11 @@ usless gaps <br>
 window is read notification remover <br>
 auto move windows 
 
+# cool programs
+vesktop: https://github.com/Vencord/Vesktop <br>
+spotify/spicetify: https://spicetify.app/ <br>
+steam/AdwSteamGtk: https://github.com/Foldex/AdwSteamGtk
+
 
 # current setup 
 pc part picker list: https://pcpartpicker.com/user/Just_Smidge/saved/dZKbkL <br> <br>
