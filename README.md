@@ -19,7 +19,7 @@ usless gaps <br>
 window is read notification remover <br>
 auto move windows 
 
-# cool programs
+# cool programs i use
 vesktop: https://github.com/Vencord/Vesktop <br>
 spotify/spicetify: https://spicetify.app/ <br>
 steam/AdwSteamGtk: https://github.com/Foldex/AdwSteamGtk
