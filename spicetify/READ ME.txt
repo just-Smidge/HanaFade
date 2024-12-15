@@ -1,0 +1,3 @@
+edit the spicetify theme "text" by darkthemer
+then enabble theme dev tools
+then add this to the bottom or eddit the RosePineDawn colour theme :3

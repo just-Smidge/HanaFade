@@ -1,0 +1,14 @@
+[SmidgesRosePineDawnEdit]
+accent=d7827e
+accent-active=d7827e
+accent-inactive=fffaf3
+banner=d7827e
+border-active=d7827e
+border-inactive=f2e9e1
+header=9893a5
+highlight=dfdad9
+main=fffce9
+notification=286983
+notification-error=b4637a
+subtext=797593
+text=575279
