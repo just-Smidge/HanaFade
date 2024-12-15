@@ -6,18 +6,18 @@ r/unixporn post: https://www.reddit.com/r/unixporn/comments/1he6b2n/gnome_arch_l
 wallpaper: https://x.com/nanataroo_7/status/1865375688511131836
 
 # current gnome shell extentions
-arch linux update indicator <br>
-blur my shell <br>
-custom reboot <br>
-notification timeout <br>
-open bar <br>
-rounded window corners reborn <br>
-spotify controls + track info <br>
-tiling shell <br>
-top bar organizer <br>
-usless gaps <br>
-window is read notification remover <br>
-auto move windows 
+arch linux update indicator: https://github.com/RaphaelRochet/arch-update <br>
+blur my shell: https://github.com/aunetx/blur-my-shell <br>
+custom reboot: https://github.com/Nova1545/gnome-shell-extension-customreboot <br>
+notification timeout: https://github.com/vchlum/notification-timeout <br>
+open bar: https://github.com/neuromorph/openbar <br>
+rounded window corners reborn: https://github.com/flexagoon/rounded-window-corners <br>
+spotify controls + track info: https://github.com/Sonath21/spotify-controls <br>
+tiling shell: https://github.com/domferr/tilingshell <br>
+top bar organizer: https://gitlab.gnome.org/june/top-bar-organizer <br>
+usless gaps: https://github.com/mipmip/gnome-shell-extensions-useless-gaps <br>
+window is read notification remover: https://github.com/nunofarruca/WindowIsReady_Remover <br>
+auto move windows: https://gitlab.gnome.org/GNOME/gnome-shell-extensions
 
 # cool programs i use
 vesktop: https://github.com/Vencord/Vesktop <br>
