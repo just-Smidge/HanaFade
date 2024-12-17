@@ -1,4 +1,4 @@
-# just_smidge-linux-dotfiles
+# HanaFade - arch gnome rice by Smidge
 ![Screenshot From 2024-12-15 03-14-10](https://github.com/user-attachments/assets/c578e374-d5ed-47a1-a612-b577c8314812) <br>
 
 # links & credits
