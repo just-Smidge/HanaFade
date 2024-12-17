@@ -22,6 +22,9 @@ auto move windows: https://gitlab.gnome.org/GNOME/gnome-shell-extensions
 # cool programs i use
 vesktop: https://github.com/Vencord/Vesktop <br>
 spotify/spicetify: https://spicetify.app/ <br>
+steam/Millennium: https://steambrew.app/
+
+# cool programs i used to use
 steam/AdwSteamGtk: https://github.com/Foldex/AdwSteamGtk
 
 
