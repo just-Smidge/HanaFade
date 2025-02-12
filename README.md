@@ -24,7 +24,7 @@ vesktop: https://github.com/Vencord/Vesktop <br>
 spotify/spicetify: https://spicetify.app/ <br>
 steam/Millennium: https://steambrew.app/
 
-# current setup 
+# setup 
 pc part picker list: https://pcpartpicker.com/user/Just_Smidge/saved/dZKbkL <br> <br>
 arch linux <br>
 gnome <br>
